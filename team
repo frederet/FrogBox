@@ -1,0 +1,107 @@
+<!DOCTYPE html charset="utf8">
+<html>
+<head>
+<title>FrogBox Team</title>
+<link rel="stylesheet" href="./css/web.css">
+<link rel="apple-touch-icon" sizes="57x57" href="./apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="./apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="./apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="./apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="./apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="./apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="./apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="./apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="./apple-icon-180x180.png">
+<link rel="manifest" href="/manifest.json">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:700" rel="stylesheet">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="author" content="auw46">
+<meta name="Description" content="FrogBox Entertainment is a small independent company based out of Portland, Maine.">
+<meta name="Keywords" content="frog, box, frogbox, entertainment, gammasquared, scyfa, arena, arena of, the elders, the, elders, butthole">
+
+<!--
+_____/\\\\\\\\\\\______________/\\\________/\\\__________________/\\\\\\\\\__________________/\\\\\\\\\_        
+ ___/\\\/////////\\\___________\/\\\_______\/\\\_______________/\\\////////________________/\\\////////__       
+  __\//\\\______\///____________\/\\\_______\/\\\_____________/\\\/_______________________/\\\/___________      
+   ___\////\\\___________________\/\\\_______\/\\\____________/\\\________________________/\\\_____________     
+    ______\////\\\________________\/\\\_______\/\\\___________\/\\\_______________________\/\\\_____________    
+     _________\////\\\_____________\/\\\_______\/\\\___________\//\\\______________________\//\\\____________   
+      __/\\\______\//\\\____________\//\\\______/\\\_____________\///\\\_____________________\///\\\__________  
+       _\///\\\\\\\\\\\/______________\///\\\\\\\\\/________________\////\\\\\\\\\______________\////\\\\\\\\\_ 
+        ___\///////////__________________\/////////_____________________\/////////__________________\/////////__
+-->
+</head>
+<body>
+  <div class="container">
+
+  <!-- START NAVBAR -->
+
+    <div class="navbar">
+      <a href="https://frogboxentertainment.com"><img id="logo" src="./fbl.png" alt="FrogBox Logo" title="Frouje Bouckes"></a>
+      <a id="logotext" href="https://frogboxentertainment.com">FROGBOX</a>
+      <ul id="succ">
+
+      <!-- COPY PASTE AN "<a href="home.html"><li class="divided">Home</li></a>" TO CREATE A NEW TAB IN THE NAVIGATION BAR ||| MAKE SURE TO CHANGE THE HREF TO THE PATH YOU WANT -->
+
+        <a href="./index"><li class="divided">Home</li></a>
+        <a href="./games"><li class="divided">Games</li></a>
+        <a href="./team"><li class="divided" style="background: #b5d849; color: white;">Team</li></a>
+        <a href="./store"><li class="divided">Store</li></a>
+        <a href="./contact"><li class="divided">Contact</li></a>
+      </ul>
+    </div>
+
+    <!-- END NAVBAR -->
+
+    <!-- START TEAM MEMBER DISPLAY SHEET - MORE DOCUMENTATION LISTED BELOW -->
+
+    <div class="teamtitle">
+    	Our Team
+    </div>
+
+    <div class="teamwrapper">
+
+    	<div class="arrowhover teammember">
+        <img  class="teamimg" src="http://i.imgur.com/CpG0peT.png?1">
+        <p class="nametext">Adam Taddia</p>
+        <div class="arrow_box regular">My name is Adam Tadia, and I am a modeler for the Frog Box project Gamma Squared, I mostly model and sometimes rig models, and then I semd them over to Alec for rigging/animation. I have been assigned with modeling the armor, but I sometimes do other things. Also, I hate normies and weebs.</div>
+      </div>
+
+      <div class="arrowhover teammember">
+        <img  class="teamimg" src="http://i.imgur.com/l0Hxijy.jpg?2">
+        <p class="nametext">Alec Wilson</p>
+        <div class="arrow_box regular">Alec Wilson is an aspiring computer modeler\animator that has has been working with CAD software for over a year. He uses the program Maya for all of his animations and is currently working as an animator for the game Gamma2. Alec started using CAD software back in 2015 with simple part design and then moved on to animation. Alec likes video games sleeping and hates geese.</div>
+      </div>
+
+      <div class="arrowhover teammember">
+        <img  class="teamimg" src="http://i.imgur.com/M694KuA.jpg">
+        <p class="nametext">Camden Accuosti</p>
+        <div class="arrow_box regular">Camden Accuosti is a composer and game designer working for Frogbox. He has worked in the past on video games, podcasts, tabletop games, and film. Nintendo is his one true love, and his OTP is Genji/Mercy. Overall, he's probably the best and sweetest boy on the Frogbox team.</div>
+      </div>
+
+      <div class="arrowhover teammember">
+        <img  class="teamimg" src="http://i.imgur.com/sK3n2vu.jpg">
+        <p class="nametext">Qinn</p>
+        <div class="arrow_box regular">I don't work enough, this is an example.</div>
+      </div>
+
+      <div class="arrowhover teammember">
+        <img  class="teamimg" src="http://i.imgur.com/PSH7WrI.jpg">
+        <p class="nametext">Thomas Peterlein</p>
+        <div class="arrow_box regular">Thomas is an intelligent worker that excels with managing and social relations. He his one of the driving forces behind his group getting work and tasks accomplished. He is the current project head of Scyfa, Frog Box's first role playing game.</div>
+      </div>
+
+      <div class="arrowhover teammember">
+        <img  class="teamimg" src="http://i.imgur.com/CpG0peT.png?1">
+        <p class="nametext">Camden Accuosti</p>
+        <div class="arrow_box regular">Camden Accuosti is a composer and game designer working for Frogbox. He has worked in the past on video games, podcasts, tabletop games, and film. Nintendo is his one true love, and his OTP is Genji/Mercy. Overall, he's probably the best and sweetest boy on the Frogbox team.</div>
+      </div>
+
+    </div>
+  </div>
+</body>
+</html>
+
